@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #aaa;
+}
+
+#wrap{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, nav, section, footer{
+    padding: 2%;
+    margin: 2%;
+    background-color: #fff;
+}
+
+nav img{
+    overflow: auto;
+    width:70%;
+}
+
+section {
+    overflow: auto;
+}
+
+section img{
+    width: 80%;
+}
+
+figure{
+    width:80%;
+}
+
+figure img{
+    width: 100%;
+}
+
+ header {
+    width: 80%;
+    }
+
+img{ 
+    80%;
+}
