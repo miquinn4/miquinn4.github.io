@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&family=Coiny&family=Londrina+Shadow&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #aaa;
+}
+
+#wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, nav, section, footer {
+    padding: 2%;
+    margin: 2%;
+    background-color: #fff;
+}
+
+header, footer {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: Georgia, serif;
+}
+
+nav {
+    text-align: center;
+    font-size: x-large;
+    padding: 13px;
+}
+
+nav ul {
+    margin:0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
+nav a:hover {
+    background-color: #900;
+}
+
+
+
+
+body#home{
+    background:#ECF1FE;
+}
+
+#home header, #home footer{
+    background-color: #B0C4FC;
+    font-family: "Coiny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:#7599FA;
+}
+
+#home nav{
+    background-color:#C5D4FB;
+}
+
+#home nav a:hover{
+    background-color:#B1C8FB;
+}
+
+#home section{
+    background-color:#D8E3FD;
+    color: #041D62;
+    overflow:auto;
+}
+
+#cherryblossoms{
+    width:40%;
+    padding:0 4.5% 1%;
+    margin:0;
+}
+
+#beach{
+    width: 40%;
+    padding:0 4.5% 1%;
+    margin:0;
+}
+
+#forest{
+    width:40%;
+    padding:1% 4.5%;
+    margin:0;
+}
+
+#snow{
+    width:40%;
+    padding:1% 4.5%;
+    margin:0;
+}
+
+
+
+
+
+
+body#spring{
+    background-color:#FBCEC5;
+}
+
+#spring header, #spring footer{
+    background-color:#F79E8D;
+    overflow:auto;
+    padding:2% 0;
+}
+
+#spring img {
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+
+#spring nav{
+    background-color:#F68E79;
+}
+
+#spring nav a:hover{
+    background-color:#F36E53;
+}
+
+#spring section{
+    background-color:#F9AC9F;
+    color: white;
+    overflow: auto;
+}
+
+#spring img#tulip{
+    width:40%;
+    float:right;
+    margin:0;
+    padding:0 2%;
+}
+
+#spring h3{
+    font-size:bold;
+    text-decoration:underline solid;
+    text-decoration-color:white;
+}
+
+#spring img#eggs{
+    width:40%;
+    float:right;
+    margin:0;
+    padding:0 2%;
+}
+
+#spring img#clover{
+    width:40%;
+    float:left;
+    margin:0;
+    padding:0 2%;
+}
+
+
+
+
+body#summer{
+    background-color:#FFF2B2;
+}
+
+#summer header{
+    background-color:#94E2F0;
+    overflow:auto;
+    padding:0;
+}
+
+#summer nav{
+    background-color:#43A6C7;
+}
+
+#summer section{
+    background-color:#A9D6E5;
+    overflow:auto;
+    color:#0092E0;
+}
+
+#summer footer{
+    background-color:#94E2F0;
+}
+
+#summer img{
+    width:100%;
+}
+
+#summer nav a:hover{
+    background-color:#007AA3;
+}
+
+#summer h3{
+    font-size:bold;
+    text-decoration:underline solid;
+    text-decoration-color:#0092E0;
+}
+
+#summer img#yellow{
+    width:37%;
+    float:right;
+    margin:0;
+    padding:2% 3%;
+}
+
+#summer img#fire{
+    width:37%;
+    float:left;
+    margin:0;
+    padding:2% 2%;
+}
+
+#summer img#july{
+    width:37%;
+    float:right;
+    margin:0;
+    padding:2% 3%;
+}
+
+
+
+
+
+
+
+body#autumn{
+    background-color:#C28F47;
+    color:#ED8207;
+}
+
+#autumn header {
+    background-color:#804E23;
+    overflow:auto;
+    padding:0;
+    color:#ED8207;
+}
+
+#autumn footer{
+    background-color:#804E23;
+    color:#ED8207;
+}
+
+#autumn img{
+    width:100%;
+}
+
+#autumn nav{
+    background-color:#603B1A;
+    color:#BB4D00;
+}
+
+#autumn nav a {
+    color:#522300;
+}
+
+#autumn nav a:hover{
+    background-color:#6F451F;
+}
+
+#autumn section{
+    background-color:#905827;
+    color:#522300;
+    overflow:auto;
+}
+
+#autumn h2{
+    text-decoration: underline solid;
+    text-decoration-color:#522300;
+    text-align:left;
+}
+
+#autumn img#lake{
+    width:40%;
+    float:right;
+    padding:0% 3% 0% 2%;
+}
+
+#autumn img#greatpumpkin{
+    width:30%;
+    float:left;
+    padding: 0 1% 0 2%;
+    margin: 0 1.5% 0 0;
+}
+
+#autumn img#scary{
+    width:35%;
+    float:right;
+    padding:0 2% 0 1%;
+}
+
+#autumn img#turkey{
+    width:35%;
+    float:right;
+    padding: 0% 3% 0% 2%;
+}
+
+#autumn h3{
+    font-size:bold;
+    text-decoration:underline solid;
+    text-decoration-color: #522300;
+}
+
+#autumn h4{
+    font-size: 23px;
+}
+
+#autumn img#pie{
+    width:23%;
+    float:left;
+    margin: 0 2% 0 0;
+    padding:0 1% 1% 2%;
+}
+
+
+
+
+
+
+#winter{
+    background-color:#B3BFD1;
+    color:#F0EBD8;
+}
+
+#winter header{
+    color: #F0EBD8;
+}
+
+#winter header, #winter footer{
+    background-color: #748CAB;
+    padding:2% 0;
+}
+
+#winter img{
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+
+#winter img#frozen{
+    width:40%;
+    float:right;
+    margin:0;
+    padding:2%;
+}
+
+#winter img#ornaments{
+    width:29%;
+    float:left;
+    margin:0;
+    padding:2% 2% 12% 0;
+}
+
+#winter img#santa{
+    width:35%;
+    float:right;
+    margin:0;
+    padding:0 2%;
+}
+
+#winter img#grinch{
+    width:19%;
+    float:right;
+    margin:0;
+    padding:0 8.5% 1.5%;
+}
+
+#winter nav{
+   background-color:#465572;
+}
+
+#winter nav{
+    color: #F0EBD8;
+}
+
+#winter nav a:hover {
+    background-color: #17223A;
+}
+
+#winter section{
+    background-color:#8192B1;
+    overflow: auto;
+}
+
+#winter h3{
+    font-size:bold;
+    text-decoration:underline solid;
+    text-decoration-color:#F0EBD8;
+}
