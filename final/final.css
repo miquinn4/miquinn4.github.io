@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+
+#wrap{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, nav, section, footer{
+    padding:2%;
+    background-color:white;
+    overflow:auto;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+header{
+    text-align:center;
+}
+
+nav{
+    text-align:center;
+    font-size:18px;
+    padding:0%;
+    background-color:white;
+}
+
+nav li{
+    display:inline;
+    padding: 1% 1%;
+    margin: 3%;
+}
+
+footer{
+    background-color:whitesmoke;
+    width:100%;
+    text-align:center;
+    color:grey;
+    padding:2%;
+    margin:2%;
+}
+
+aside{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    list-style-type:none;
+}
+
+
+
+
+
+#index{
+    
+}
+
+#index header {
+    font-size: 45px;
+}
+
+#index nav{
+    
+}
+
+#index aside{
+    background-color:#F4D301;
+    float:left;
+    width:18%;
+    padding:1.5% 3% 3% 2%;
+    margin:0% 2% 0% 0%;
+    color:white;
+    font-size:18px;
+    overflow:auto;
+    list-style-type:none;
+}
+
+#index ul{
+    list-style-type:none;
+}
+
+#charlie{
+    width:45%;
+    padding:2% 2% 0% 4%;
+    float:right;
+}
+
+#penhead{
+    width:45%;
+    padding:0% 2%;
+    margin:0%;
+    float:right;
+}
+
+#index survey{
+    width:90%;
+    float:right;
+}
+
+#f1{
+    padding:0%;
+    margin:0%;
+}
+
+#f2{
+    padding:0% 2%;
+    margin:0%;
+}
+
+#f3{
+    padding:2% 0%;
+    margin:0% 2%;
+}
+
+
+
+#slider{
+    width:60%;
+    margin:0%;
+    padding:0%;
+    float:right;
+}
+
+
+
+
+
+
+
+#comics header{
+    font-size: 45px;
+}
+
+#comics aside{
+    float:left;
+    background-color:skyblue;
+    padding:1.5% 3% 3% 2%;
+    margin:0% 2% 0% 0%;
+    width:18%;
+    color:white;
+    font-size:19px;
+}
+
+#comics aside li{
+    margin:0%;
+    padding:1% 1% 23% 1%;
+    font-size:18px;
+    list-style-type:none;
+}
+
+#comicintro{
+    font-size:23px;
+}
+
+#homework{
+    float:center;
+    width:65%;
+}
+
+#secretary{
+    float:right;
+    width:35%;
+    padding:2% 2% 2% 2%;
+}
+
+#cactus{
+    float:left;
+    width:35%;
+    padding:2%;
+}
+
+#theastronaut{
+    width:75%;
+    padding:0.5% 0.5% 2% 2%;
+    margin:1% 10.5%;
+}
+
+#snowy{
+    float:right;
+    width:35%;
+    padding:2%;
+    margin:0%;
+}
+
+
+
+
+
+
+
+#the-great header{
+    font-size:45px;
+    padding:1%;
+    margin:0%;
+}
+
+#the-great aside{
+    float:left;
+    background-color:darkorange;
+    padding:1.5% 3% 3% 2%;
+    margin:0% 2% 0% 0%;
+    width:18%;
+    color:white;
+    font-size:18px;
+}
+
+#the-great aside li{
+    list-style-type:none;
+    margin:0%;
+    padding:1% 0% 18% 0%;
+    font-size:18px;
+}
+
+#the-great ul{
+    padding:0% 0% 1% 2%;
+    margin:0% 0% 0% 5%;
+}
+
+#group{
+    float:right;
+    width:35%;
+    padding:2%;
+    margin:0%;
+}
+
+#cover{
+    width:35%;
+    float:right;
+    padding:2%;
+    margin:0%;
+}
+
+/*#F1D993*/
+
+
+
+
+
+
+#thanksgiving header{
+    font-size:45px;
+    padding:1%;
+    margin:0%;
+}
+
+#thankbanner{
+    float:right;
+    width:35%;
+    padding:2% 4% 2% 2%;
+}
+
+#dinner{
+    width:35%;
+    float:right;
+    padding:2% 4% 2% 2%;
+}
+
+#thanksgiving aside{
+    float:left;
+    background-color:#936639;
+    padding:1.5% 3% 3% 2%;
+    margin:0% 2% 0% 0%;
+    width:18%;
+    color:white;
+    text-decoration:none;
+    size: 16px;
+    overflow:auto;
+}
+
+#thanksgiving ul{
+    padding:2%;
+    margin:2%;
+}
+
+#thanksgiving li{
+    padding:2%;
+    margin:2%;
+    list-style-type:none;
+}
+
+#thanksgiving iframe{
+    width:100%;
+    padding:2% 0% 2% 0%;
+    margin:0%;
+}
+
+
+
+
+#christmas header{
+    font-size: 45px;
+}
+
+#christmas aside{
+    float:left;
+    background-color:midnightblue;
+    padding:1.5% 3% 3% 2%;
+    margin:0% 2% 0% 0%;
+    width:18%;
+    color:white;
+    text-decoration:none;
+    size: 16px;
+    overflow:auto;
+}
+
+#christmas ul{
+    padding:2%;
+    margin:2%;
+    text-decoration:none;
+}
+
+#christmas li{
+    padding:2%;
+    margin:2%;
+    text-decoration:none;
+    list-style-type:none;
+}
+
+#christ{
+    width:25%;
+    padding:2% 4% 2% 2%;
+    margin:0%;
+    float:right;
+}
+
+#sing{
+    float:right;
+    width:35%;
+    padding:2% 4% 2% 2%;
+}
+
